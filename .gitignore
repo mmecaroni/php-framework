@@ -1,22 +1,24 @@
+/config/db.php
+
 # Ignore composer dependencies
-/vendor/
+/vendor
 
 # Ignore node_modules directory
-/node_modules/
+/node_modules
 
 # Ignore any logs and cache files
-/logs/
-/cache/
+/logs
+/cache
 
 # Ignore environment configuration files
 .env
 
 # Ignore any built assets or compiled code
-/public/assets/
+/public/assets
 
 # Ignore any editor/IDE specific files
-.idea/
-.vscode/
+.idea
+.vscode
 
 # Ignore any user-specific files
 .DS_Store
